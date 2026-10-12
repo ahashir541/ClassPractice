@@ -11,7 +11,7 @@ console.log(`Price: ${price}, Age: ${age}`);
 // console.log("My name is Hashir and I am learning JavaScript.");
 
 
-console.log(typeof "Hello");     // string
+console.log(typeof "aswad");     // string
 console.log(typeof 42);          // number
 console.log(typeof true);        // boolean
 
